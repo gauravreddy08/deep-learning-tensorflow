@@ -8,13 +8,13 @@ All of the course materials from the [Zero to Mastery Deep Learning with TensorF
 
 ## Contents of this page
 
-[Notebooks](https://github.com/gauravreddy08/deep-learning-tensorflow/#Notebooks) : all the notebooks I code while learning the course
+[Notebooks](https://github.com/gauravreddy08/deep-learning-tensorflow/#notebooks) : all the notebooks I code while learning the course
 
-[Projects 🛠](https://github.com/gauravreddy08/deep-learning-tensorflow/#Projects): projects I do on few inbuilt mini data-sets and few large data-sets
+[Projects 🛠](https://github.com/gauravreddy08/deep-learning-tensorflow/#projects-): projects I do on few inbuilt mini data-sets and few large data-sets
 
-[log ](https://github.com/gauravreddy08/deep-learning-tensorflow/#log):spiral_notepad: : updates, changes and progress
+[log ](https://github.com/gauravreddy08/deep-learning-tensorflow/#log-spiral_notepad):spiral_notepad: : updates, changes and progress
 
-[to-do ](https://github.com/gauravreddy08/deep-learning-tensorflow/#to-do):dart: : there's still more to-do !
+[to-do ](https://github.com/gauravreddy08/deep-learning-tensorflow/#to-do-dart):dart: : there's still more to-do !
 
 ## Notebooks 
 
