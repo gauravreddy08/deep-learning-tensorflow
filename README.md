@@ -41,7 +41,9 @@ All the notebooks I code while Learning the course
 
 ## log :spiral_notepad:
 
-* 09 March 2021 - Created the repository, uploaded all the available baseline notebooks
+* 09 May 2021 - Created the repository, uploaded all the available baseline notebooks
+* 20 May 2021 - Added Computer Vision and CNN Notebooks
+* 21 May 2021 - Added `helper_function.py` in extras/ folder
 
 ## to-do :dart:
 
