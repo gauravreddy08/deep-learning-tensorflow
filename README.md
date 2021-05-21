@@ -28,7 +28,7 @@ All the notebooks I code while learning the course
 
 #### 📖 03-computer-vision-with-tensorflow.ipynb
 
-#### 📖 04-transger-learning-feature-extraction-tensorflow.ipynb
+#### 📖 04-transfer-learning-feature-extraction-tensorflow.ipynb
 
 ## Projects 🛠
 
