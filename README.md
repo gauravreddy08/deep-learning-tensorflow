@@ -20,15 +20,15 @@ All of the course materials from the [Zero to Mastery Deep Learning with TensorF
 
 All the notebooks I code while learning the course
 
-##### 📖 00-tensorflow-basics.ipynb
+#### 📖 00-tensorflow-basics.ipynb
 
-##### 📖 01-regression-tensorflow.ipynb
+#### 📖 01-regression-tensorflow.ipynb
 
-##### 📖 02-classification-tensorflow.ipynb
+#### 📖 02-classification-tensorflow.ipynb
 
-##### 📖 03-computer-vision-with-tensorflow.ipynb
+#### 📖 03-computer-vision-with-tensorflow.ipynb
 
-##### 📖 04-transger-learning-feature-extraction-tensorflow.ipynb
+#### 📖 04-transger-learning-feature-extraction-tensorflow.ipynb
 
 ## Projects 🛠
 
