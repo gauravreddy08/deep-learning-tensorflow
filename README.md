@@ -56,4 +56,4 @@ All the notebooks I code while learning the course
 - [ ] Polish all the Notebooks
 
 - [ ] Update the Notebooks and README with notebook summaries
-- [ ] Probably create a new folder for misc resources
+- [x] Probably create a new folder for misc resources
