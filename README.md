@@ -48,7 +48,7 @@ All the notebooks I code while learning the course
 * 09 May 2021 - Created the repository, uploaded all the available baseline notebooks
 * 20 May 2021 - Added Computer Vision and CNN Notebooks
 * 21 May 2021 - Added `helper_function.py` in extras/ folder
-
+* 22 May 2021 - Polished Notebooks 1,2
 ## to-do :dart:
 
 - [x] Add all the base line notebooks
